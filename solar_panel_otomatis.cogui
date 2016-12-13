@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window>
+<fastViewData fastViewLocation="1024">
+<orientation position="512" view="org.eclipse.debug.ui.ExpressionView"/>
+<orientation position="512" view="org.coocox.codebugger.trace.ui.traceview"/>
+<orientation position="512" view="org.eclipse.ui.console.ConsoleView"/>
+<orientation position="512" view="org.eclipse.debug.ui.VariableView"/>
+</fastViewData>
+<perspectiveBar/>
+<page focus="true" label="Workspace - CooCox CoBuilder">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="C:/Users/nicholasjn/Documents/GitHub/Solar-Panel/main.c" title="main.c" tooltip="C:/Users/nicholasjn/Documents/GitHub/Solar-Panel/main.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/main.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1913" selectionTopPixel="1513"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="timer5.h" partName="timer5.h" path="C:/Users/nicholasjn/Documents/GitHub/reva/lib/include/timer5.h" title="timer5.h" tooltip="C:/Users/nicholasjn/Documents/GitHub/reva/lib/include/timer5.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/lib/Include/timer5.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="274" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="uart.h" partName="uart.h" path="C:/Users/nicholasjn/Documents/GitHub/reva/lib/include/uart.h" title="uart.h" tooltip="C:/Users/nicholasjn/Documents/GitHub/reva/lib/include/uart.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/lib/Include/uart.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="551" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="delay.c" partName="delay.c" path="C:/Users/nicholasjn/Documents/GitHub/Praktikum_SBK/lib/source/delay.c" title="delay.c" tooltip="C:/Users/nicholasjn/Documents/GitHub/Praktikum_SBK/lib/source/delay.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/lib/Source/delay.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="275" selectionTopPixel="60"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="adc1.h" partName="adc1.h" path="C:/Users/nicholasjn/Documents/GitHub/reva/lib/include/adc1.h" title="adc1.h" tooltip="C:/Users/nicholasjn/Documents/GitHub/reva/lib/include/adc1.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/lib/Include/adc1.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2574" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="pwm_tim4.c" partName="pwm_tim4.c" path="C:/Users/nicholasjn/Documents/GitHub/Praktikum_SBK/lib/source/pwm_tim4.c" title="pwm_tim4.c" tooltip="C:/Users/nicholasjn/Documents/GitHub/Praktikum_SBK/lib/source/pwm_tim4.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/lib/Source/pwm_tim4.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2194" selectionTopPixel="920"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="main.h" partName="main.h" path="C:/Users/nicholasjn/Documents/GitHub/Solar-Panel/main.h" title="main.h" tooltip="C:/Users/nicholasjn/Documents/GitHub/Solar-Panel/main.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/main.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="339" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="core_cm4.h" partName="core_cm4.h" path="C:/Users/nicholasjn/Documents/GitHub/Praktikum_SBK/cmsis/core_cm4.h" title="core_cm4.h" tooltip="C:/Users/nicholasjn/Documents/GitHub/Praktikum_SBK/cmsis/core_cm4.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/cmsis/core_cm4.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="7483" selectionTopPixel="3094"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="tm_stm32f4_pwm.h" partName="tm_stm32f4_pwm.h" path="C:/Users/nicholasjn/Documents/GitHub/Praktikum_SBK/lib/include/tm_stm32f4_pwm.h" title="tm_stm32f4_pwm.h" tooltip="C:/Users/nicholasjn/Documents/GitHub/Praktikum_SBK/lib/include/tm_stm32f4_pwm.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/lib/Include/tm_stm32f4_pwm.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="6280" selectionTopPixel="2582"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="tm_stm32f4_servo.h" partName="tm_stm32f4_servo.h" path="C:/Users/nicholasjn/Documents/GitHub/Praktikum_SBK/lib/include/tm_stm32f4_servo.h" title="tm_stm32f4_servo.h" tooltip="C:/Users/nicholasjn/Documents/GitHub/Praktikum_SBK/lib/include/tm_stm32f4_servo.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/lib/Include/tm_stm32f4_servo.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2227" selectionTopPixel="1200"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="tm_stm32f4_servo.c" partName="tm_stm32f4_servo.c" path="C:/Users/nicholasjn/Documents/GitHub/Praktikum_SBK/lib/source/tm_stm32f4_servo.c" title="tm_stm32f4_servo.c" tooltip="C:/Users/nicholasjn/Documents/GitHub/Praktikum_SBK/lib/source/tm_stm32f4_servo.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/lib/Source/tm_stm32f4_servo.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="19" selectionOffset="1610" selectionTopPixel="660"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_tim.h" partName="stm32f4xx_tim.h" path="C:/Users/nicholasjn/Documents/GitHub/Praktikum_SBK/cmsis_lib/include/stm32f4xx_tim.h" title="stm32f4xx_tim.h" tooltip="C:/Users/nicholasjn/Documents/GitHub/Praktikum_SBK/cmsis_lib/include/stm32f4xx_tim.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/cmsis_lib/include/stm32f4xx_tim.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="13" selectionOffset="1706" selectionTopPixel="1001"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="adc1.c" partName="adc1.c" path="C:/Users/nicholasjn/Documents/GitHub/reva/lib/source/adc1.c" title="adc1.c" tooltip="C:/Users/nicholasjn/Documents/GitHub/reva/lib/source/adc1.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/lib/Source/adc1.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="243" selectionTopPixel="2550"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="i2c2.c" partName="i2c2.c" path="C:/Users/nicholasjn/Documents/GitHub/reva/lib/source/i2c2.c" title="i2c2.c" tooltip="C:/Users/nicholasjn/Documents/GitHub/reva/lib/source/i2c2.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/lib/Source/i2c2.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="srf_tpa.c" partName="srf_tpa.c" path="C:/Users/nicholasjn/Documents/GitHub/reva/lib/source/srf_tpa.c" title="srf_tpa.c" tooltip="C:/Users/nicholasjn/Documents/GitHub/reva/lib/source/srf_tpa.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/lib/Source/srf_tpa.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="499" selectionTopPixel="150"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="srf_tpa.h" partName="srf_tpa.h" path="C:/Users/nicholasjn/Documents/GitHub/reva/lib/include/srf_tpa.h" title="srf_tpa.h" tooltip="C:/Users/nicholasjn/Documents/GitHub/reva/lib/include/srf_tpa.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/lib/Include/srf_tpa.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="780" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="tm_stm32f4_onewire.h" partName="tm_stm32f4_onewire.h" path="C:/Users/nicholasjn/Documents/GitHub/Solar-Panel/lib/include/tm_stm32f4_onewire.h" title="tm_stm32f4_onewire.h" tooltip="C:/Users/nicholasjn/Documents/GitHub/Solar-Panel/lib/include/tm_stm32f4_onewire.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/lib/Include/tm_stm32f4_onewire.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5751" selectionTopPixel="2834"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="tm_stm32f4_onewire.c" partName="tm_stm32f4_onewire.c" path="C:/Users/nicholasjn/Documents/GitHub/Solar-Panel/lib/source/tm_stm32f4_onewire.c" title="tm_stm32f4_onewire.c" tooltip="C:/Users/nicholasjn/Documents/GitHub/Solar-Panel/lib/source/tm_stm32f4_onewire.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/lib/Source/tm_stm32f4_onewire.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1059" selectionTopPixel="30"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="tm_stm32f4_delay.c" partName="tm_stm32f4_delay.c" path="C:/Users/nicholasjn/Documents/GitHub/Solar-Panel/lib/source/tm_stm32f4_delay.c" title="tm_stm32f4_delay.c" tooltip="C:/Users/nicholasjn/Documents/GitHub/Solar-Panel/lib/source/tm_stm32f4_delay.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/lib/Source/tm_stm32f4_delay.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2588" selectionTopPixel="1770"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="tm_stm32f4_delay.h" partName="tm_stm32f4_delay.h" path="C:/Users/nicholasjn/Documents/GitHub/Solar-Panel/lib/include/tm_stm32f4_delay.h" title="tm_stm32f4_delay.h" tooltip="C:/Users/nicholasjn/Documents/GitHub/Solar-Panel/lib/include/tm_stm32f4_delay.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/solar_panel_otomatis/lib/Include/tm_stm32f4_delay.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="9131" selectionTopPixel="5163"/>
+</editor>
+</editors>
+<views>
+<view id="org.coocox.builder.ui.views.ProjectView" partName="Project">
+<viewState CommonNavigator.LINKING_ENABLED="0" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="18">
+<expanded>
+<element path="/solar_panel_otomatis"/>
+<element path="/solar_panel_otomatis/lib"/>
+<element path="/solar_panel_otomatis/lib/Include"/>
+<element path="/solar_panel_otomatis/lib/Source"/>
+<element path="/solar_panel_otomatis/stdio"/>
+<element path="/solar_panel_otomatis/syscalls"/>
+</expanded>
+<selection>
+<element path="/solar_panel_otomatis/lib/Source/tm_stm32f4_delay.c"/>
+</selection>
+</viewState>
+</view>
+<view id="org.coocox.component.ui.ComponentView" partName="Components">
+<viewState/>
+</view>
+<view id="org.coocox.codebugger.trace.ui.traceview" partName="Semihosting">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.VariableView" partName="Variables">
+<viewState/>
+</view>
+<view id="org.coocox.component.ui.Help" partName="Help">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.cdt.ui.editor.CEditor" activePerspective="org.coocox.builder.perspective.CoBuilder">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.builder.ui.PerspectiveCoBuilder" id="org.coocox.builder.perspective.CoBuilder" label="CooCox CoBuilder"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.coocox.userspace.actionSet"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.ShowDisassemblyAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showExpressionsAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showDebugAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showConsoleAction"/>
+<hide_menu_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryBrowserAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showVariablesAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openProjectExplorerAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.trace.actions.ShowTraceControlAction"/>
+<hide_menu_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showRegistersAction"/>
+<hide_toolbar_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<view id="org.coocox.component.ui.ComponentView"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
+<view id="org.coocox.component.ui.Help"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@fd78dc">
+<folder activePageID="org.coocox.component.ui.ComponentView" appearance="2" expanded="2">
+<page content="org.coocox.component.ui.ComponentView" label="Components"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.ui.internal.ViewStack@fd78dc">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@c720e0" ratio="0.69952303" ratioLeft="440" ratioRight="189" relationship="4" relative="org.eclipse.ui.internal.ViewStack@fd78dc">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.coocox.builder.ui.exampleView" ratio="0.21944036" ratioLeft="298" ratioRight="1060" relationship="2" relative="org.eclipse.ui.internal.ViewStack@fd78dc"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@c56a05" ratio="0.89943075" ratioLeft="948" ratioRight="106" relationship="2" relative="org.coocox.builder.ui.exampleView">
+<folder activePageID="org.coocox.component.ui.Help" appearance="2" expanded="2">
+<page content="org.coocox.component.ui.Help" label="Help"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView" label="LabelNotFound"/>
+<page content="org.coocox.builder.ui.MoreExampleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.4499205" ratioLeft="283" ratioRight="346" relationship="4" relative="org.coocox.builder.ui.exampleView"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@109ed78" ratio="0.3688394" ratioLeft="232" ratioRight="397" relationship="4" relative="org.eclipse.ui.internal.ViewStack@fd78dc">
+<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">
+<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.codebugger.configuration.ui.Perspective" id="org.coocox.codebugger.configuration.perspective" label="CoDebugger"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<hide_menu_item_id id="org.coocox.builder.ui.newFolder"/>
+<hide_menu_item_id id="org.coocox.welcome.ui.action.repository"/>
+<hide_menu_item_id id="org.eclipse.ui.file.save"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.eclipse.ui.file.saveAll"/>
+<hide_menu_item_id id="org.coocox.builder.ui.rebuild"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openFile"/>
+<hide_menu_item_id id="org.eclipse.ui.file.saveAs"/>
+<hide_menu_item_id id="org.coocox.builder.rcp.projectMenu"/>
+<hide_menu_item_id id="org.coocox.builder.rcp.flashMenu"/>
+<hide_menu_item_id id="org.coocox.builder.ui.debug"/>
+<hide_menu_item_id id="org.coocox.builder.ui.showHelpViewAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.newFile"/>
+<hide_menu_item_id id="org.coocox.builder.ui.actions.ConfigurationAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.builder.ui.build"/>
+<hide_menu_item_id id="org.coocox.welcome.ui.action.welcome"/>
+<hide_menu_item_id id="org.coocox.component.ui.ShowRepositoryAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.actions.TargetManageAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.newProject"/>
+<hide_toolbar_item_id id="org.coocox.welcome.ui.action.repository"/>
+<hide_toolbar_item_id id="org.eclipse.ui.file.save"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.rebuild"/>
+<hide_toolbar_item_id id="org.coocox.codebugger.configuration.coideFlashEraseAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.debug"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.newFile"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.actions.ConfigurationAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.build"/>
+<hide_toolbar_item_id id="org.coocox.welcome.ui.action.welcome"/>
+<hide_toolbar_item_id id="org.coocox.codebugger.configuration.coideProgramDownloadAction"/>
+<hide_toolbar_item_id id="org.coocox.component.ui.ShowRepositoryAction"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.coocox.codebugger.trace.ui.traceview"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
+<fastViewBars/>
+<viewLayoutRec closeable="false" id="org.eclipse.debug.ui.DebugView"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.ui.internal.ViewStack@729b5d">&#x0A;<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">&#x0A;<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.ui.internal.ViewStack@729b5d">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@4de91" ratio="0.69952303" ratioLeft="440" ratioRight="189" relationship="4" relative="org.eclipse.ui.internal.ViewStack@729b5d">&#x0A;<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1b03a05" ratio="0.5" ratioLeft="679" ratioRight="679" relationship="2" relative="org.eclipse.ui.internal.ViewStack@4de91">&#x0A;<folder activePageID="org.coocox.codebugger.trace.ui.traceview" appearance="2" expanded="2">&#x0A;<page content="org.coocox.codebugger.trace.ui.traceview" label="Semihosting"/>
+<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.MemoryView" label="LabelNotFound"/>
+<page content="org.eclipse.cdt.debug.ui.memory.memorybrowser.MemoryBrowser" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@b11f20" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.ui.internal.ViewStack@729b5d">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.cdt.dsf.debug.ui.disassembly.view" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView_debug" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.29960707" ratioLeft="305" ratioRight="713" relationship="2" relative="org.eclipse.ui.internal.ViewStack@729b5d"/>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/solar_panel_otomatis/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/solar_panel_otomatis/main.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/solar_panel_otomatis/lib/Source/delay.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/solar_panel_otomatis/lib/Include/delay.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/solar_panel_otomatis/lib/Include/adc1.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/solar_panel_otomatis/lib/Source/adc1.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/solar_panel_otomatis/lib/Source/i2c2.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/solar_panel_otomatis/lib/Source/srf_tpa.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/solar_panel_otomatis/lib/Include/srf_tpa.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/solar_panel_otomatis/main.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/solar_panel_otomatis/lib/Include/tm_stm32f4_onewire.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/solar_panel_otomatis/lib/Source/tm_stm32f4_onewire.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/solar_panel_otomatis/lib/Source/tm_stm32f4_delay.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/solar_panel_otomatis/lib/Include/delay.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/solar_panel_otomatis/lib/Include/tm_stm32f4_delay.h"/>
+</editors>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2006" y="13"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1468" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1830" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="49" y="3"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1284" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1552" y="0"/>
+</item>
+<item historyLabel="main.h" index="1">
+<position info="not_deleted" x="117" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1552" y="0"/>
+</item>
+<item historyLabel="main.h" index="1">
+<position info="not_deleted" x="116" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="281" y="0"/>
+</item>
+<item historyLabel="main.h" index="1">
+<position info="not_deleted" x="119" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1888" y="0"/>
+</item>
+<item historyLabel="delay.h" index="3">
+<position info="not_deleted" x="668" y="0"/>
+</item>
+<item historyLabel="adc1.h" index="4">
+<position info="not_deleted" x="2574" y="0"/>
+</item>
+<item historyLabel="adc1.c" index="5">
+<position info="not_deleted" x="243" y="0"/>
+</item>
+<item historyLabel="i2c2.c" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="srf_tpa.c" index="7">
+<position info="not_deleted" x="499" y="0"/>
+</item>
+<item historyLabel="srf_tpa.h" index="8">
+<position info="not_deleted" x="780" y="0"/>
+</item>
+<item historyLabel="adc1.h" index="4">
+<position info="not_deleted" x="2574" y="0"/>
+</item>
+<item historyLabel="delay.c" index="2">
+<position info="not_deleted" x="275" y="0"/>
+</item>
+<item historyLabel="main.h" index="1">
+<position/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2130" y="0"/>
+</item>
+<item historyLabel="main.h" index="1">
+<position info="not_deleted" x="117" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2130" y="0"/>
+</item>
+<item historyLabel="main.h" index="9">
+<position info="not_deleted" x="117" y="0"/>
+</item>
+<item historyLabel="main.h" index="9">
+<position info="not_deleted" x="339" y="0"/>
+</item>
+<item historyLabel="tm_stm32f4_onewire.h" index="10">
+<position info="not_deleted" x="4705" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="326" y="0"/>
+</item>
+<item historyLabel="tm_stm32f4_onewire.h" index="10">
+<position info="not_deleted" x="4705" y="0"/>
+</item>
+<item historyLabel="tm_stm32f4_onewire.h" index="10">
+<position info="not_deleted" x="4700" y="0"/>
+</item>
+<item historyLabel="tm_stm32f4_onewire.c" index="11">
+<position info="not_deleted" x="1109" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="326" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="358" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2103" y="0"/>
+</item>
+<item historyLabel="tm_stm32f4_onewire.h" index="10">
+<position info="not_deleted" x="4700" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2103" y="0"/>
+</item>
+<item historyLabel="tm_stm32f4_onewire.h" index="10">
+<position info="not_deleted" x="5751" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2103" y="0"/>
+</item>
+<item historyLabel="tm_stm32f4_delay.c" index="12">
+<position info="not_deleted" x="1517" y="30"/>
+</item>
+<item historyLabel="delay.h" index="13">
+<position info="not_deleted" x="665" y="0"/>
+</item>
+<item historyLabel="tm_stm32f4_delay.h" index="14">
+<position info="not_deleted" x="7545" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="436" y="0"/>
+</item>
+<item historyLabel="tm_stm32f4_onewire.c" index="11">
+<position info="not_deleted" x="1059" y="0"/>
+</item>
+<item historyLabel="tm_stm32f4_delay.c" index="12">
+<position info="not_deleted" x="1517" y="30"/>
+</item>
+<item historyLabel="tm_stm32f4_delay.h" index="14">
+<position info="not_deleted" x="9125" y="0"/>
+</item>
+<item historyLabel="tm_stm32f4_onewire.c" index="11">
+<position info="not_deleted" x="1059" y="0"/>
+</item>
+<item historyLabel="tm_stm32f4_delay.h" index="14">
+<position info="not_deleted" x="9131" y="0"/>
+</item>
+<item historyLabel="tm_stm32f4_delay.c" index="12">
+<position info="not_deleted" x="2588" y="0"/>
+</item>
+<item active="true" historyLabel="main.c" index="0">
+<position info="not_deleted" x="1909" y="19"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="tm_stm32f4_delay.h" tooltip="solar_panel_otomatis/lib/Include/tm_stm32f4_delay.h">
+<persistable path="/solar_panel_otomatis/lib/Include/tm_stm32f4_delay.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="tm_stm32f4_delay.c" tooltip="solar_panel_otomatis/lib/Source/tm_stm32f4_delay.c">
+<persistable path="/solar_panel_otomatis/lib/Source/tm_stm32f4_delay.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="tm_stm32f4_onewire.c" tooltip="solar_panel_otomatis/lib/Source/tm_stm32f4_onewire.c">
+<persistable path="/solar_panel_otomatis/lib/Source/tm_stm32f4_onewire.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="tm_stm32f4_onewire.h" tooltip="solar_panel_otomatis/lib/Include/tm_stm32f4_onewire.h">
+<persistable path="/solar_panel_otomatis/lib/Include/tm_stm32f4_onewire.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="srf_tpa.h" tooltip="solar_panel_otomatis/lib/Include/srf_tpa.h">
+<persistable path="/solar_panel_otomatis/lib/Include/srf_tpa.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="srf_tpa.c" tooltip="solar_panel_otomatis/lib/Source/srf_tpa.c">
+<persistable path="/solar_panel_otomatis/lib/Source/srf_tpa.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="i2c2.c" tooltip="solar_panel_otomatis/lib/Source/i2c2.c">
+<persistable path="/solar_panel_otomatis/lib/Source/i2c2.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="adc1.c" tooltip="solar_panel_otomatis/lib/Source/adc1.c">
+<persistable path="/solar_panel_otomatis/lib/Source/adc1.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="delay.h" tooltip="solar_panel_otomatis/lib/Include/delay.h">
+<persistable path="/solar_panel_otomatis/lib/Include/delay.h"/>
+</file>
+<file factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="attributes.h" tooltip="C:\Users\nicholasjn\Documents\GitHub\Praktikum_SBK\lib\include\attributes.h">
+<persistable path="C:\Users\nicholasjn\Documents\GitHub\Praktikum_SBK\lib\include\attributes.h" project="solar_panel_otomatis"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_tim.h" tooltip="solar_panel_otomatis/cmsis_lib/include/stm32f4xx_tim.h">
+<persistable path="/solar_panel_otomatis/cmsis_lib/include/stm32f4xx_tim.h"/>
+</file>
+<file factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="defines.h" tooltip="C:\Users\nicholasjn\Documents\GitHub\Praktikum_SBK\lib\include\defines.h">
+<persistable path="C:\Users\nicholasjn\Documents\GitHub\Praktikum_SBK\lib\include\defines.h" project="solar_panel_otomatis"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="tm_stm32f4_servo.c" tooltip="solar_panel_otomatis/lib/Source/tm_stm32f4_servo.c">
+<persistable path="/solar_panel_otomatis/lib/Source/tm_stm32f4_servo.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="tm_stm32f4_servo.h" tooltip="solar_panel_otomatis/lib/Include/tm_stm32f4_servo.h">
+<persistable path="/solar_panel_otomatis/lib/Include/tm_stm32f4_servo.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="tm_stm32f4_pwm.h" tooltip="solar_panel_otomatis/lib/Include/tm_stm32f4_pwm.h">
+<persistable path="/solar_panel_otomatis/lib/Include/tm_stm32f4_pwm.h"/>
+</file>
+</mruList>
+</workbench>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.9.3 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=solar_panel_otomatis.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\solar_panel_otomatis -TC:\CooCox\CoIDE\configuration\ProgramData\solar_panel_otomatis/arm-gcc-link.ld -g">
+      <target file="solar_panel_otomatis.elf" lastModified="158fa66efa0">
+         <source file="..\obj\stm32f4xx_syscfg.o" lastModified="158fa64a816"/>
+         <source file="..\obj\tm_stm32f4_servo.o" lastModified="158fa64a875"/>
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="158fa64a95e"/>
+         <source file="..\obj\stm32f4xx_pwr.o" lastModified="158fa64a9bd"/>
+         <source file="..\obj\uart.o" lastModified="158fa64aa39"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="158fa64aa79"/>
+         <source file="..\obj\main.o" lastModified="158fa66eda2"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="158fa64ac02"/>
+         <source file="..\obj\stm32f4xx_adc.o" lastModified="158fa64ac88"/>
+         <source file="..\obj\printf.o" lastModified="158fa64acfb"/>
+         <source file="..\obj\tm_stm32f4_delay.o" lastModified="158fa66d05d"/>
+         <source file="..\obj\tm_stm32f4_onewire.o" lastModified="158fa665027"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="158fa64ae53"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="158fa64aead"/>
+         <source file="..\obj\syscalls.o" lastModified="158fa64af0a"/>
+         <source file="..\obj\srf_tpa.o" lastModified="158fa64afa7"/>
+         <source file="..\obj\tm_stm32f4_pwm.o" lastModified="158fa64b035"/>
+         <source file="..\obj\lcd.o" lastModified="158fa66509e"/>
+         <source file="..\obj\stm32f4xx_i2c.o" lastModified="158fa64b133"/>
+         <source file="..\obj\misc.o" lastModified="158fa64b188"/>
+         <source file="..\obj\i2c2.o" lastModified="158fa64b208"/>
+         <source file="..\obj\tm_stm32f4_gpio.o" lastModified="158fa64b26e"/>
+         <source file="..\obj\tm_stm32f4_timer_properties.o" lastModified="158fa64b2cf"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="158fa64b39d"/>
+         <source file="..\obj\adc1.o" lastModified="158fa64b3fa"/>
+      </target>
+   </processor>
+</history>
